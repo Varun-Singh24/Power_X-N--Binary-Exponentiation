@@ -53,8 +53,8 @@ double myPow(double x, int n) {
 ```
 
 #  📝 ExampleInput:
-x = 2.00000, 
-n = 10Binary
+x = 2.00000 
+n = 10Binary \\ 
 breakdown: $2^{10} = (2^2)^5 = 4^5 = 4 \cdot (4^2)^2 = 4 \cdot 16^2 = 4 \cdot 256 = 1024$
 
 Output: 1024.00000
