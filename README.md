@@ -1,0 +1,1 @@
+# Pow-x-n---Power_Exponent
